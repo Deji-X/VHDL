@@ -1,7 +1,1 @@
-# VHDL
-My VHDL codes for personal projects. You may also see some of Sanchit's VLSI Roadmap Solutions in VHDL.
-VHDL and Verilog HDL, differ, from one another.
-Both are essentially Hardware Languages, but one is more concise and the other more structured.
-Most of this codes were written on Simulink, other IDEs were used but not at initial time.
-
-Each Project or Solution should not be copied word for word, just for idea purposes.
+This module introduces the basics of the VHDL language for logic design. It describes the use of VHDL as a design entry method for logic design in FPGAs and ASICs. To provide context, it shows where VHDL is used in the FPGA design flow. Then a simple example, a 4-bit comparator, is used as a first phrase in the language. VHDL rules and syntax are explained, along with statements, identifiers and keywords. Finally, use of simulation as a means of testing VHDL circuit designs is demonstrated using ModelSim, a simulator software tool. Programming assignments are used to develop skills and reinforce the concepts presented.
